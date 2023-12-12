@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BeggarStore/static/css/main.9f8be871.css",
+    "main.js": "/BeggarStore/static/js/main.56dd55d1.js",
+    "static/js/787.e5d2561f.chunk.js": "/BeggarStore/static/js/787.e5d2561f.chunk.js",
+    "static/media/img3.jpg": "/BeggarStore/static/media/img3.f4442e9faa2740b12efa.jpg",
+    "static/media/img4.jpg": "/BeggarStore/static/media/img4.7685a105845b24eda827.jpg",
+    "static/media/img1.jpg": "/BeggarStore/static/media/img1.53fe9c5bee398f89a515.jpg",
+    "static/media/science.jpg": "/BeggarStore/static/media/science.6b7e797d6fb8736ff75b.jpg",
+    "static/media/book4.jpg": "/BeggarStore/static/media/book4.f0c1c172c168eea03eec.jpg",
+    "static/media/History.jpg": "/BeggarStore/static/media/History.b181923acbf966af1ea2.jpg",
+    "static/media/Stock.jpg": "/BeggarStore/static/media/Stock.5ae4590b507ebdfaf43d.jpg",
+    "static/media/Novel.jpg": "/BeggarStore/static/media/Novel.6c1c9a319f099c248808.jpg",
+    "index.html": "/BeggarStore/index.html",
+    "main.9f8be871.css.map": "/BeggarStore/static/css/main.9f8be871.css.map",
+    "main.56dd55d1.js.map": "/BeggarStore/static/js/main.56dd55d1.js.map",
+    "787.e5d2561f.chunk.js.map": "/BeggarStore/static/js/787.e5d2561f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8be871.css",
+    "static/js/main.56dd55d1.js"
+  ]
+}
